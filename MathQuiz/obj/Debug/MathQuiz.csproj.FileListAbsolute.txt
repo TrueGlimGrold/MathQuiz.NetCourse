@@ -8,3 +8,13 @@ C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\20
 C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\Mind Palace\Backburner tasks\Projects\Current schooling\2024 Winter\.NET Software Development\Projects\Repositories\MathQuiz.NetCourse\MathQuiz\obj\Debug\MathQuiz.Form1.resources
